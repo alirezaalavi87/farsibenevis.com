@@ -49,5 +49,6 @@ https://keepachangelog.com/en/1.0.0/
 	- [ ] آموزش تنظیم LibreOffice
 	- [ ] آموزش تنظیم LaTeX
 	- [ ] آموزش فارسی و دوسویه نوشتن در Markdown
+  - [ ] آموزش تنظیم Google docs
 
 </div>
